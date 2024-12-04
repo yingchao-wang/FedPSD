@@ -4,7 +4,7 @@ This repository is the official PyTorch implementation of:
 
 "Federated Progressive Self-Distillation with Logits Calibration for Personalized IIoT " 
 
-<img src="./assets/fedPSD.png" width="800"/>
+<img src="assets/fedPSD.png" width="800"/>
 
 Our code is based on the [FedNTD](https://github.com/Lee-Gihun/FedNTD/)  library.
 
