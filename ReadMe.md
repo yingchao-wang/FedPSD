@@ -20,12 +20,12 @@ Our code is based on the [FedNTD](https://github.com/Lee-Gihun/FedNTD/)  library
 
 The usage of our proposed algorithm is as follows:
 ```
-cd FEDPSD/
+cd FedPSD/
 python ./main.py --config_path ./config/fedpsd.json
 ``` 
 The usage of other algorithms can refer to the following format:
 ```
-cd FEDPSD/
+cd FedPSD/
 python ./main.py --config_path ./config/${algorithm_name}.json
 ```
 ## Reference Github
